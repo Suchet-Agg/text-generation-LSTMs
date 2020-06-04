@@ -17,5 +17,5 @@ Version : 1.0.1
 
 ## Acknowledgments
 
-Code for Data Loading and Displaying results taken from: https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
-Dataset used: [Link](https://fangj.github.io/friends/)
+* Code for Data Loading and Displaying results taken from: https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+* Dataset used: [Link](https://fangj.github.io/friends/)
